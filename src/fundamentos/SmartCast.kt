@@ -17,6 +17,6 @@ private fun tipoVariavel2(x: Any) {
 }
 
 fun main() {
-    tipoVariavel2(1)
+    tipoVariavel(1)
     tipoVariavel2(true)
 }
